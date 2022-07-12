@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: custom
-  theme_night: custom
+  theme_day: earth
+  theme_night: dark 
   font: minimal
-  font_size: L
+  font_size: m
 
 # SEO
 
@@ -74,6 +74,7 @@ features:
   #   content_dir: content
   #   branch: master
   avatar:
+
     gravatar: false
     shape: circle
   comment:
