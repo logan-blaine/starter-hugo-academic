@@ -6,7 +6,7 @@ title: Logan Blaine
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Bioinformatics and Integrative Genomics
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,14 @@ organizations:
     url: https://bigphd.hms.harvard.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are...
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Functional genomics
+  - Single cell genomics
+  - Bayesian statistics
+  - Machine learning
 
 # Education to show in About widget
 education:
@@ -67,11 +68,8 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Logan_Blaine_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
