@@ -31,4 +31,6 @@ url_video: ''
 slides: ""
 ---
 
-Full write-up coming soon!
+Full write-up coming soon! 
+
+{{< icon name="download" pack="fas" >}} In the meantime, feel free to {{< staticref "6.435 final talk.pdf" "newtab" >}}check out my slides{{< /staticref >}}.
