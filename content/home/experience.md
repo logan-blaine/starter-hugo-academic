@@ -29,7 +29,11 @@ experience:
     location: Boston, MA
     date_start: '2020-08-30'
     date_end: ''
-    # description: 
+    description: |
+      I completed research rotations with Shamil Sunyaev, Jason Buenrostro, and Luca Pinello. I also took rigorous graduate-level courses in probabilistic modeling, statistical inference, and machine learning including:
+      - Probability I (STAT 210)
+      - Algorithms for Inference (MIT 6.438)
+      - Bayesian Modeling and Inference (MIT 6.435)
 
   - title: Associate Computational Biologist 
     company: Dana-Farber Cancer Institute
@@ -38,8 +42,9 @@ experience:
     location: Boston, MA
     date_start: '2018-06-18'
     date_end: '2020-07-01'
-    # description: Taught electronic engineering and researched semiconductor physics.
-
+    description: |
+      I analyzed single-cell cancer genomics data as a part of the [Pellman Lab](https://pellmanlab.dana-farber.org/). With technical co-mentorship from [Cheng-Zhong Zhang](https://dbmi.hms.harvard.edu/people/cheng-zhong-zhang), I helped shed light on how abnormal cell division can cause genomic catastrophes.
+     
   - title: Undergraduate Student 
     company: Princeton University
     company_url: 'https://www.princeton.edu'
@@ -47,7 +52,9 @@ experience:
     location: Princeton, NJ
     date_start: '2014-08-01'
     date_end: '2018-06-30'
-    # description: Taught electronic engineering and researched semiconductor physics.
+    description: |
+      I majored in Molecular Biology and earned certificates in [Applications of Computing](https://ua.princeton.edu/academic-units/program-applications-computing) and [Quantitative and Computational Biology](https://ua.princeton.edu/academic-units/program-quantitative-and-computational-biology). For my senior thesis, I worked with [Peter Andolfatto](https://www.biology.columbia.edu/people/andolfatto) on *in silico* modeling of protein evolution. 
+      I was also fortunate to serve as the president of the Princeton University Cycling Club.
 
 design:
   columns: '2'
