@@ -1,13 +1,13 @@
 ---
 # An instance of the Contact widget.
 widget: contact
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 10000
 
 title: Contact
 subtitle:
@@ -19,8 +19,8 @@ content:
   # Email form provider
   form:
     provider: netlify
-    formspree:
-      id:
+    # formspree:
+    #   id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
@@ -43,11 +43,15 @@ content:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
-  # contact_links:
-    # - icon: twitter
-    #   icon_pack: fab
-    #   name: DM Me
-    #   link: 'https://twitter.com/LoganJBlaine'
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: Twitter
+      link: 'https://twitter.com/LoganJBlaine'
+    - icon: linkedin
+      icon_pack: fab
+      name: Linkedin
+      link: 'https://www.linkedin.com/in/logan-blaine-564074110'
     # - icon: video
     #   icon_pack: fas
     #   name: Zoom Me
@@ -56,3 +60,4 @@ content:
 design:
   columns: '2'
 ---
+### Feel free to message me on social media, or email me here:

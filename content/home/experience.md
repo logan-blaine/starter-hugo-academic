@@ -43,7 +43,7 @@ experience:
     date_start: '2018-06-18'
     date_end: '2020-07-01'
     description: |
-      I analyzed single-cell cancer genomics data as a part of the [Pellman Lab](https://pellmanlab.dana-farber.org/). With technical co-mentorship from [Cheng-Zhong Zhang](https://dbmi.hms.harvard.edu/people/cheng-zhong-zhang), I helped shed light on how abnormal cell division can cause genomic catastrophes.
+      I analyzed single-cell genomics data for cancer biology research as a part of the [Pellman Lab](https://pellmanlab.dana-farber.org/). With co-mentorship from [Cheng-Zhong Zhang](https://dbmi.hms.harvard.edu/people/cheng-zhong-zhang), I helped show how errors in cell division can cause genomic catastrophes frequently occurring in cancer and less commonly seen after CRISPR-Cas9 genome editing. 
      
   - title: Undergraduate Student 
     company: Princeton University
@@ -54,7 +54,7 @@ experience:
     date_end: '2018-06-30'
     description: |
       I majored in Molecular Biology and earned certificates in [Applications of Computing](https://ua.princeton.edu/academic-units/program-applications-computing) and [Quantitative and Computational Biology](https://ua.princeton.edu/academic-units/program-quantitative-and-computational-biology). For my senior thesis, I worked with [Peter Andolfatto](https://www.biology.columbia.edu/people/andolfatto) on *in silico* modeling of protein evolution. 
-      I was also fortunate to serve as the president of the Princeton University Cycling Club.
+      I also served as the president of the Princeton University Cycling Club.
 
 design:
   columns: '2'

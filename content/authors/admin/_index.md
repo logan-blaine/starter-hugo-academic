@@ -75,7 +75,7 @@ _name: false
 
 My name is Logan (he/him) and I am a third-year graduate student in the [Bioinformatics and Integrative Genomics PhD Program](https://bigphd.hms.harvard.edu/) at Harvard Medical School. For my thesis research, I am working in the [Pinello Lab](https://main.pinellolab.partners.org/) to build computational tools for functional genomics and single-cell assays. I want to **accelerate biomedical discoveries** by developing statistical and machine learning approaches to analyze high-throughput, high-content biology experiments.
 
-Outside of lab I love getting together for food, games, and outdoor adventures.
+Outside of lab, I love getting together for food, games, and outdoor adventures.
 
 <!-- 
 {{< icon name="download" pack="fas" >}} In the meantime, feel free to download my {{< staticref "uploads/Logan_Blaine_cv.pdf" "newtab" >}}CV{{< /staticref >}}. -->
