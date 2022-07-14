@@ -20,7 +20,7 @@ image:
 #     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: '6.435 final talk.pdf'
+url_slides: 'uploads/6.435 final talk.pdf'
 url_video: ''
 
 # Slides (optional).
